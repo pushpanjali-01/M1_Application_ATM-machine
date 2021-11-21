@@ -52,6 +52,6 @@ The term ATM stands for automated teller machine. It is an electronic device tha
 |:--:|:------------:|:---------------------------:|
 | 1  | Check balance is one of the module which is helpful to view the account balance using PIN number | Implemented |
 | 2  | Deposit is the module which describes depositing amount to the account by selecting the account number and value of amount to deposit | Implemented |
-| 3 | Withdraw is the module which describes withrawal of amount from the account using PIN number and entering value of amount to withdraw| Implemented |
+| 3 | Withdraw is the module which describes withrawal of amount from the account using PIN number and entering value of amount the withrawal checks for the balance amount and value enetered to withdraw if value is greater than balance it displays an message insufficient amount to withdraw | Implemented |
 | 4 | Exit is an module which describes the exit of the system or current process| Implemenedt |
 
