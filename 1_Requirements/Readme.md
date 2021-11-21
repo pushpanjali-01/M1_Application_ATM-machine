@@ -49,6 +49,6 @@ ID	Description	Status
 
 
 ##  Low level Requirements:
-|#ID | #Description | #Status (Implemented/Future)|
+|# ID | # Description | # Status (Implemented/Future)|
 |:--:|:------------:|:---------------------------:|
-|#1  |
+|# 1  |Check balance is one of the module which is helpful to view the account balance for transactions|Implemented|
