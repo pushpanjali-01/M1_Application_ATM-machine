@@ -9,7 +9,11 @@ The term ATM stands for automated teller machine. It is an electronic device tha
 ![Description](Link to Pic)
 -- Content 
 ## Defining Our System
-    -- TBD
+    An automated teller machine (ATM) is an electronic banking outlet that allows customers to complete basic transactions without the aid of a branch representative or teller. Anyone with a credit card or debit card can access cash at most ATMs.ATMs are convenient, allowing consumers to perform quick self-service transactions such as deposits, cash withdrawals, bill payments, and transfers between accounts. Fees are commonly charged for cash withdrawals by the bank where the account is located, by the operator of the ATM, or by both. Some or all of these fees can be avoided by using an ATM operated directly by the bank that holds the account.
+    ** Automated teller machines (ATMs) are electronic banking outlets that allow people to complete transactions without going into a branch of their bank. **
+    ** Some ATMs are simple cash dispensers while others allow a variety of transactions such as check deposits, balance transfers, and bill payments. **
+    ** The first ATMs appeared in the mid- to late-1960s and have grown in number to over 2 million worldwide. **
+    ** Today's ATMs are technological marvels, many capable of accepting deposits as well as several other banking services. **
 ## SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic)
 
