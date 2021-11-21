@@ -37,11 +37,12 @@ The term ATM stands for automated teller machine. It is an electronic device tha
 
 # Detail requirements
 ## High Level Requirements:
-|ID |Description|Status|
-|1 |A customer must be able to make a cash withdrawl from any suitable account linked to the card, Approval must be obtained from the bank before cash is dispensed.|Implemented|
-|2 |A customer must be able to make a transfer of money between any two accounts linked to the card.|Implemented|
-|3 |The ATM will communicate each transaction to the bank and obtain verification that it was allowed by the bank. In the case of a cash withdraw or deposit, a second message will be sent after the transaction has been physically completed.|Future|
-|4 |The ATM will provide the customer with a printed receipt for each successful transaction, showing the date, time, machine location, type of transaction, account(s), amount, and ending and available balance(s) of the affected account.|Future|
+|ID | Description | Status(Implemented/Future) |
+|:--:|:------------:|:---------------------------:|
+| 1 | A customer must be able to make a cash withdrawl from any suitable account linked to the card, Approval must be obtained from the bank before cash is dispensed.|Implemented |
+| 2 | A customer must be able to make a transfer of money between any two accounts linked to the card.| Implemented |
+| 3 | The ATM will communicate each transaction to the bank and obtain verification that it was allowed by the bank. In the case of a cash withdraw or deposit, a second message will be sent after the transaction has been physically completed. | Future |
+| 4 | The ATM will provide the customer with a printed receipt for each successful transaction, showing the date, time, machine location, type of transaction, account(s), amount, and ending and available balance(s) of the affected account. | Future |
 
 
 
