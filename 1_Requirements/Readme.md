@@ -17,28 +17,35 @@ The term ATM stands for automated teller machine. It is an electronic device tha
 
 ## Who:
 
-**TBD**
+**The customer or a public who faces the prolem of securing and transfering money from on remote area to another digitally**
 
 ## What:
 
-**TBD**
+**The problem in the real world is having paper money in homes may lead to theft and another main problem is sending money from one remote area to another is a challeging task manually**
 
 ## When:
 
-**TBD**
+**The problem was encountered when ever a customer have an bank account he or she should do the transactions only in bank timings manually**
 
 ## Where:
 
-**TBD**
+**The problem was first occured in the bank sight**
 
 ## How:
 
-**TBD**
+**The customers may be in number of counts without ATM in banks to do their transactions and the process would take more amount to do transactions. **
 
 # Detail requirements
 ## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+ID	Description	Status
+1	A customer must be able to make a cash withdrawl from any suitable account linked to the card, Approval must be obtained from the bank before cash is dispensed.
+	Implemented
+2	A customer must be able to make a transfer of money between any two accounts linked to the card.
+	Implemented
+3	The ATM will communicate each transaction to the bank and obtain verification that it was allowed by the bank. In the case of a cash withdraw or deposit, a second message will be sent after the transaction has been physically completed .	Future
+4	The ATM will provide the customer with a printed receipt for each successful transaction, showing the date, time, machine location, type of transaction, account(s), amount, and ending and available balance(s) of the affected account .	Future
+
+
 
 
 ##  Low level Requirements:
