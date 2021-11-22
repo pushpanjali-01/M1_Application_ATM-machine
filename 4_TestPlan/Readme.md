@@ -4,9 +4,9 @@
 
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|  H_01       |--------------------------------------------------------------|  ------------|-------------|----------------|Requirement based |
-|  H_02       |--------------------------------------------------------------|  ------------|-------------|----------------|Scenario based    |
-|  H_03       |--------------------------------------------------------------|  ------------|-------------|----------------|Boundary based    |
+|  01      |verify the ATM card insertion slot is as per the specification|  valid ATM card|successfully inserted|presents information of card holder|Requirement based |
+|  02       |verify the ATM machines accepts card and PIN details|  PIN number|screen for transaction options|Accepts the PIN and moves forward|Scenario based    |
+|  03       |verify the error message by inserting an invalid card(expired card)|  invalid ATM card|invalid alert|Error message|Boundary based    |
 
 ## Table no: Low level test plan
 
