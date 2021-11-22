@@ -12,7 +12,7 @@
 
 | **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|  L_01       |--------------------------------------------------------------|  ------------|-------------|----------------|Requirement based |
-|  L_02       |--------------------------------------------------------------|  ------------|-------------|----------------|Scenario based    |
-|  L_03       |--------------------------------------------------------------|  ------------|-------------|----------------|Boundary based    |
+|  01       |Cash withdraw| PIN number |Valid amout |Entered amout|Boundary based |
+|  02       |Deposit amount| Account details |valid amount to deposit|Crediting amount in reqiured Account|Scenario based    |
+|  03       |Balance check| PIN number |Account Balance|Account balance|Requirement based    |
 
