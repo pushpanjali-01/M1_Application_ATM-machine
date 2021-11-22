@@ -16,7 +16,6 @@ An automated teller machine (ATM) is an electronic banking outlet that allows cu
    * Today's ATMs are technological marvels, many capable of accepting deposits as well as several other banking services. 
 ## SWOT ANALYSIS
 ![SWOT-Sample](https://user-images.githubusercontent.com/94214701/142853404-d2f609f3-bef5-4018-a3e7-e4dab66d3685.png)
-)
 ## Who:
 
 **The customer or a public who faces the prolem of securing and transfering money from on remote area to another digitally**
