@@ -1,21 +1,21 @@
-#include<stdio.h>
-#include<stdlib.h>
-#include<stdbool.h>
-#include<math.h>
+#include<stdio.h><br/>
+#include<stdlib.h><br/>
+#include<stdbool.h><br/>
+#include<math.h><br/>
 
-//Functions
-void login();
-void mainMenu();
-void checkBalance(float balance);
-float moneyDeposit(float balance);
-float moneyWithdraw(float balance);
-void menuExit();
-void errorMessage();
+//Functions<br/>
+void login();<br/>
+void mainMenu();<br/>
+void checkBalance(float balance);<br/>
+float moneyDeposit(float balance);<br/>
+float moneyWithdraw(float balance);<br/>
+void menuExit();<br/>
+void errorMessage();<br/>
 
 
-//Main Code
-int main() {
-    //Local Declarations
+//Main Code<br/>
+int main()<br/> {
+    
     int option;
     float balance = 15000.00;
     int choose;
@@ -94,18 +94,18 @@ void mainMenu() {
 
 }//Main Menu
 
-void checkBalance(float balance) {
-    printf("You Choose to See your Balance\n");
-    printf("\n\n****Your Available Balance is:   $%.2f\n\n", balance);
+void checkBalance(float balance)<br/> {<br/>
+    printf("You Choose to See your Balance\n");<br/>
+    printf("\n\n****Your Available Balance is:   $%.2f\n\n", balance);<br/>
 
 }//Check Balance
 
-float moneyDeposit(float balance) {
-    float deposit;
-    printf("You choose to Deposit a money\n");
-    printf("$$$$Your Balance is: $%.2f\n\n", balance);
-    printf("****Enter your amount to Deposit\n");
-    scanf("%f", &deposit);
+float moneyDeposit(float balance) <br/>{
+    float deposit;<br/>
+    printf("You choose to Deposit a money\n");<br/>
+    printf("$$$$Your Balance is: $%.2f\n\n", balance);<br>
+    printf("****Enter your amount to Deposit\n");<br/>
+    scanf("%f", &deposit);<br/>
 
 
     balance += deposit;
@@ -115,8 +115,8 @@ float moneyDeposit(float balance) {
 
 }//money deposit
 
-float moneyWithdraw(float balance) {
-    float withdraw;
+float moneyWithdraw(float balance)<br/> {<br/>
+    float withdraw;<br/>
     bool back = true;
 
     printf("You choose to Withdraw a money\n");
@@ -148,14 +148,14 @@ float moneyWithdraw(float balance) {
 
 }//money withdraw
 
-void menuExit() {
-    printf("--------------Take your receipt!!!------------------\n");
-    printf("-----Thank you for using ATM Banking Machine!!!-----\n");
-    printf("-----BROUGHT TO YOU BY itsourcecode.com-----\n");
+void menuExit() <br/>{<br/>
+    printf("--------------Take your receipt!!!------------------\n");<br/>
+    printf("-----Thank you for using ATM Banking Machine!!!-----\n");<br/>
+    printf("-----BROUGHT TO YOU BY itsourcecode.com-----\n");<br/>
 
 
 }//exit menu
 
-void errorMessage() {;
-    printf("+++!!!You selected invalid number!!!+++\n");
+void errorMessage() <br/>{<br/>
+    printf("+++!!!You selected invalid number!!!+++\n");<br/>
 }//error message
