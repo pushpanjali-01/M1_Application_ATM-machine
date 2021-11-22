@@ -15,10 +15,7 @@ An automated teller machine (ATM) is an electronic banking outlet that allows cu
    * The first ATMs appeared in the mid- to late-1960s and have grown in number to over 2 million worldwide. 
    * Today's ATMs are technological marvels, many capable of accepting deposits as well as several other banking services. 
 ## SWOT ANALYSIS
-![SWOT-Sample](https://www.google.com/imgres?imgurl=https%3A%2F%2Fsimplybanking.files.wordpress.com%2F2014%2F03%2Fpresentation1.jpg&imgrefurl=https%3A%2F%2Fsimplybanking.wordpress.com%2F2014%2F03%2F23%2Fkalupur-bank-opens-the-rupay-network-to-its-customers-swot-analysis%2F&tbnid=Sc50WFe7N2VcSM&vet=12ahUKEwj2s4nWl6v0AhWYk9gFHSgNBVUQMygCegUIARCzAQ..i&docid=ufG-cqsJj9wiVM&w=960&h=720&itg=1&q=swot%20analysis%20of%20atm%20machine&ved=2ahUKEwj2s4nWl6v0AhWYk9gFHSgNBVUQMygCegUIARCzAQ)
-
-# 4W&#39;s and 1&#39;H
-
+![SWOT-Sample]()
 ## Who:
 
 **The customer or a public who faces the prolem of securing and transfering money from on remote area to another digitally**
