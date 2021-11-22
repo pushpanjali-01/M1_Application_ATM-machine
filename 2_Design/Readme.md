@@ -3,8 +3,8 @@
 ## High Level Design 
 
 --- TBD Structural and Behavioural Diagram
-![HighLevelStructuralDiagram](Link to Pic)
-![HighLevelBehaviouralDiagram](Link to Pic)
+![HighLevelStructuralDiagram](https://user-images.githubusercontent.com/94214701/142855555-250fb117-9044-413f-bcb0-2f42c23c534c.png)
+
 
 ## Low Level Design 
 
