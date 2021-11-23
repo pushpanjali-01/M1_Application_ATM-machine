@@ -1,7 +1,8 @@
 # Requirements
 ## Introduction
 The term ATM stands for automated teller machine. It is an electronic device that is used by only bank customers to process account transactions. The users access their accounts through a special type of plastic card that is encoded with user information on a magnetic strip. The strip contains an identification code that is transmitted to the bank’s central computer by modem. The users insert the card into ATMs to access the account and process their account transactions.
-
+## State of art
+It is the system which is very useful to the public/bank customers to do their transactions at any point of time and using this can reduce time for transactions comparing with time taken for manually doing transactions in bank.
 ## Defining Our System
 An automated teller machine (ATM) is an electronic banking outlet that allows customers to complete basic transactions without the aid of a branch representative or teller. Anyone with a credit card or debit card can access cash at most ATMs.ATMs are convenient, allowing consumers to perform quick self-service transactions such as deposits, cash withdrawals, bill payments, and transfers between accounts. Fees are commonly charged for cash withdrawals by the bank where the account is located, by the operator of the ATM, or by both. Some or all of these fees can be avoided by using an ATM operated directly by the bank that holds the account.
    * Automated teller machines (ATMs) are electronic banking outlets that allow people to complete transactions without going into a branch of their bank.
