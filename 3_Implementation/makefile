@@ -1,7 +1,7 @@
 #Target name : Dependencies
 #<TAB>command
 # Name of the project
-PROJ NAME = ATM-machine
+PROJ NAME = M1_Application_ATM-machine
 # All source code files
 SRC = ATM-machine.c test.h
 # All test source files
